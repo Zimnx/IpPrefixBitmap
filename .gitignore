@@ -3,3 +3,4 @@ CMakeFiles/
 *.user*
 Makefile
 CMakeCache.txt
+*.cmake
